@@ -1,0 +1,25 @@
+{
+  "name": "meme-generator",
+  "version": "1.0.0",
+  "description": "表情包生成器 - 使用阿里云百炼 qwen-image-edit 模型",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "formidable": "^3.5.1",
+    "axios": "^1.6.0",
+    "cors": "^2.8.5"
+  },
+  "keywords": [
+    "meme",
+    "generator",
+    "qwen",
+    "aliyun",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT"
+}
