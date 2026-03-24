@@ -84,7 +84,7 @@ npm --version
 **macOS / Linux:**
 ```bash
 chmod +x setup.sh
-./setup.sh
+bash ./setup.sh
 ```
 
 **Windows:**
@@ -105,7 +105,7 @@ npm install
 ### 2. 配置 API Key
 
 **获取 API Key：**
-1. 访问 [阿里云百炼控制台](https://dashscope.console.aliyun.com/)
+1. 访问 [阿里云百炼控制台](https://bailian.console.aliyun.com/)
 2. 登录并创建/获取 API Key
 
 **设置环境变量：**
